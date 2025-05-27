@@ -1,0 +1,5 @@
+building pipeline 
+1 create a repo in github and clone it to ur pc
+2 add src folder with all components (run them individually )
+3 add data model reports to .gitignore file
+4 now git add,commit,push
